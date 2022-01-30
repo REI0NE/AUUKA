@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: c4c94f12e3eaa3b40888f0c5533bc5d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4443269328802900083
+    second: babushka_0
+  - first:
+      213: -6179668986179203787
+    second: babushka_1
+  - first:
+      213: 519815362161422794
+    second: babushka_2
+  - first:
+      213: -8689182022239849359
+    second: babushka_3
+  - first:
+      213: 6574230120300726743
+    second: babushka_4
+  - first:
+      213: 6331863909078757177
+    second: babushka_5
+  - first:
+      213: -5792632072512606844
+    second: babushka_6
+  - first:
+      213: -5838106696950608717
+    second: babushka_7
+  - first:
+      213: 965434169041714078
+    second: babushka_8
+  - first:
+      213: 238135469119068282
+    second: babushka_9
+  - first:
+      213: 4137774260747494035
+    second: babushka_10
+  - first:
+      213: -9078738939673146565
+    second: babushka_11
+  - first:
+      213: -3205789262286669261
+    second: babushka_12
+  - first:
+      213: -795074799379167840
+    second: babushka_13
+  - first:
+      213: -1419648652482472540
+    second: babushka_14
+  - first:
+      213: 3223213984896999754
+    second: babushka_15
+  - first:
+      213: -4438843686884565582
+    second: babushka_16
+  - first:
+      213: -7828975805947910939
+    second: babushka_17
+  - first:
+      213: -8043247238483446447
+    second: babushka_18
+  - first:
+      213: 340467136660119764
+    second: babushka_19
+  - first:
+      213: 1159275261350934144
+    second: babushka_20
+  - first:
+      213: -8644777546823686322
+    second: babushka_21
+  - first:
+      213: -1278709756772559181
+    second: babushka_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: babushka_0
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 133
+        width: 2187
+        height: 1599
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87905f36165652c0800000000000000
+      internalID: -4443269328802900083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_1
+      rect:
+        serializedVersion: 2
+        x: 4787
+        y: 1721
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4a416cc76d3aa0800000000000000
+      internalID: -6179668986179203787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 168
+        width: 1029
+        height: 1533
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13c6a5151c63700800000000000000
+      internalID: 519815362161422794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1691
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174feafecf2d96780800000000000000
+      internalID: -8689182022239849359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1329
+        width: 5
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c230767b5c3b50800000000000000
+      internalID: 6574230120300726743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_5
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1335
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f61ca7dac4fd750800000000000000
+      internalID: 6331863909078757177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1269
+        width: 11
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de95b12df6c9fa0800000000000000
+      internalID: -5792632072512606844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_7
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1290
+        width: 38
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc0e6704e0eafea0800000000000000
+      internalID: -5838106696950608717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_8
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1268
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b71cbf249e56d00800000000000000
+      internalID: 965434169041714078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_9
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1263
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78534d82f60e4300800000000000000
+      internalID: 238135469119068282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_10
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 83
+        width: 1620
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392eb9c64c35c6930800000000000000
+      internalID: 4137774260747494035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_11
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1162
+        width: 58
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b864c1907d10280800000000000000
+      internalID: -9078738939673146565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 780
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a34a4a6afb283d0800000000000000
+      internalID: -3205789262286669261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 747
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c325bea357f4f0800000000000000
+      internalID: -795074799379167840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_14
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 739
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59bea72156c4ce0800000000000000
+      internalID: -1419648652482472540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_15
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 227
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416bdcba082bbc20800000000000000
+      internalID: 3223213984896999754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_16
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 221
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd92cd4f2f0662c0800000000000000
+      internalID: -4438843686884565582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 126
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e853fbf3e95390800000000000000
+      internalID: -7828975805947910939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_18
+      rect:
+        serializedVersion: 2
+        x: 4373
+        y: 121
+        width: 8
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557d856045a06090800000000000000
+      internalID: -8043247238483446447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_19
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 43
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d022529e0599b400800000000000000
+      internalID: 340467136660119764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_20
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 40
+        width: 54
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08678b545b2961010800000000000000
+      internalID: 1159275261350934144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 13
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472d478f94970880800000000000000
+      internalID: -8644777546823686322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babushka_22
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 13
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6deb8404c114ee0800000000000000
+      internalID: -1278709756772559181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

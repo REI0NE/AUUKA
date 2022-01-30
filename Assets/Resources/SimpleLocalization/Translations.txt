@@ -1,0 +1,18 @@
+	Ukrainian	English	Russian
+play	Грати	Play	Играть
+yes	Так	Yes	Да
+no	Ні	No	Нет
+options	Опції	Options	Опции
+tapscreen	Натисніть на екран	Tap on the screen	Нажмите на экран
+about	Про гру	About	Об игре
+sounds	Звуки	Sounds	Звуки
+music	Музика	Music	Музыка
+leavegame	Покинути гру?	Leave game?	Покинуть игру?
+exit	Вийти	Exit	Выйти
+drop	Покласти	Drop	Положить
+take	Взяти	Take	Взять
+resume	Продовжити	Resume	Продолжить
+exittomenu	Вийти в меню	Exit to menu	Выйти в меню
+exittomenutitle	Вийти в меню?	Exit to menu?	Выйти в меню?
+team	alalord <sup>2D Художник</sup><br> Hvedrung <sup>2D Художник</sup><br> Akinga <sup>2D Художник</sup><br> LigneSS <sup>Сценарист</sup><br> guEtarist <sup>Композитор</sup><br> HuanRozb <sup>Програміст</sup><br> Toni Coders <sup>Програміст</sup><br> Dizel <sup>UI / UX Дизайнер</sup><br> REIONE <sup>UI Unity Верстальник</sup>	alalord <sup>2D Artist</sup><br> Hvedrung <sup>2D Artist</sup><br> Akinga <sup>2D Artist</sup><br> LigneSS <sup>Screenwriter</sup><br> guEtarist <sup>Sound Designer</sup><br> HuanRozb <sup>Programmer</sup><br> Toni Coders <sup>Programmer</sup><br> Dizel <sup>UI / UX Designer</sup><br> REIONE <sup>UI Unity Developer</sup>	alalord <sup>2D Художник</sup><br> Hvedrung <sup>2D Художник</sup><br> Akinga <sup>2D Художник</sup><br> LigneSS <sup>Сценарист</sup><br> guEtarist <sup>Композитор</sup><br> HuanRozb <sup>Программист</sup><br> Toni Coders <sup>Программист</sup><br> Dizel <sup>UI / UX Дизайнер</sup><br> REIONE <sup>UI Unity Верстальщик</sup>
+postfx	Пост-ефекти	Post-processing	Пост-эффекты
